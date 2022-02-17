@@ -26,9 +26,12 @@ See screenshots for more details and visualization
 ### Screenshots
 Screenshot 1: Data frame showing “June temps” Deliverable #1.
  
+![image](https://user-images.githubusercontent.com/92705556/154564062-76f3ee12-e6f9-4132-b61a-b31ab0ec45fa.png)
 
 
 Screenshot 2: Data frame showing “Dec temps” Deliverable #2.
+
+![image](https://user-images.githubusercontent.com/92705556/154564092-80616be7-d252-43c6-b1a7-639bfbf74846.png)
 
 
 Screenshot 3: Side-by-side comparison of statistical data from both June and December temps.
@@ -38,7 +41,8 @@ Screenshot 3: Side-by-side comparison of statistical data from both June and Dec
 
 Screenshot 4: Summary of stats from June and December temps and precip.
  
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/92705556/154564127-1798572a-182c-40f0-be89-420b6fc1198a.png)
+
 
 
 ## Summary
