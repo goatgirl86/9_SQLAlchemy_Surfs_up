@@ -1,7 +1,7 @@
 # Surf's Up
 
 ## Project Overview
--	Related GitHub Folders: Data, Queries
+-	Related data: "SurfsUp_Challenge.ipynb", "hawaii.sqlite"
 
 ### Purpose
 The purpose of this week’s assignment was to explore SQLAlchemy and SQLite by performing data analysis and data exploration on a weather dataset from the island of Oahu to determine if ‘W. Avy’ should open a surf shop.
@@ -26,6 +26,7 @@ See screenshots for more details and visualization
 ### Screenshots
 Screenshot 1: Data frame showing “June temps” Deliverable #1.
  
+![Uploading image.png…]()
 
 
 Screenshot 2: Data frame showing “Dec temps” Deliverable #2.
@@ -50,8 +51,11 @@ December is slightly colder than June in Oahu.  Nevertheless, temperature alone 
 -	Max precipitation in December is also higher than June (6.42 inches in December vs 4.43 inches in June).
 
 ### Conclusions
-When looking at the temperature and precipitation data combined, June appears to be slightly warmer and dryer in Oahu than in December.  That being said, Oahu’s average December temperature of 71 degrees Fahrenheit beats most temperatures of cities in the Northern Hemisphere during that time of year. 
+When looking at the temperature and precipitation data combined, June appears to be slightly warmer and dryer in Oahu than in December.  That being said, Oahu’s average December temperature of 71 degrees Fahrenheit beats most temperatures of cities in the Northern Hemisphere during that time of year.
+
  Many tourists will be driven away from the cold back home to the warmth of Oahu during the December holidays.  Furthermore, winter is the time of year that the humpback whales migrate from Alaska to Hawaii, so whale watching is a draw!
+ 
 If I were making a recommendation to Mr. W. Avy, I tell him that I believe opening a surf and ice cream shop is a great idea.  He might see a slight reduction in sales during December due to the wet and slightly cooler weather, but I don’t think the sales will be drastically off the sales marks noted in June.  
+
 The only other suggestion I might make to W. Avy is to also look at tourism data.  By looking at potential high and low seasons (holidays) for tourists, Mr. Avy will be able to make smart decisions his business.  Maybe he could close during the middle of the week or after major holiday weeks so that he, too, can enjoy the waves, whales, and peace of taking some time off.  
 
