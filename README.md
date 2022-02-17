@@ -26,12 +26,10 @@ See screenshots for more details and visualization
 ### Screenshots
 Screenshot 1: Data frame showing “June temps” Deliverable #1.
  
-![Uploading image.png…]()
 
 
 Screenshot 2: Data frame showing “Dec temps” Deliverable #2.
- 
- 
+
 
 Screenshot 3: Side-by-side comparison of statistical data from both June and December temps.
 
