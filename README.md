@@ -12,9 +12,8 @@ Weather Data:
 
 ### Deliverables
 The deliverables for this assignment were:
--	Deliverable 1: Determine the Summary Statistics for June
--	Deliverable 2: Determine the Summary Statistics for December
--	Determine if opening a surf shop is a good idea.
+-	Deliverable 1: Determine the Summary Statistics for temperatures in June
+-	Deliverable 2: Determine the Summary Statistics for temperatures in December
 
 ## Results
 See screenshots for more details and visualization 
